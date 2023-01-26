@@ -24,12 +24,10 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<!--
 <div style="display: inline_block"><br/>
   <img align="center" alt="Google Cloud Plataform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img align="center" alt="Oracle Cloud Plataform" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
--->
 
 <div style="display: inline_block"><br/>  
   <img align="center" alt="CentOS" src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />
