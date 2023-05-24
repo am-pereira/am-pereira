@@ -7,7 +7,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomarcosap&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antoniomarcosap&bg_color=08081c&color=9c9c9c&line=472c54&point=8c8c8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniomarcosap&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomarcosap)
@@ -18,6 +18,9 @@
   <img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="Django Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+</div>
+
+<div style="display: inline_block"><br/>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
