@@ -7,7 +7,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomarcosap&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniomarcosap&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniomarcosap&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomarcosap)
