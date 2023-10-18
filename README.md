@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amarcospereira)
 
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=aam-pereira&show_icons=true&theme=tokyonight)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=am-pereira&show_icons=true&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=am-pereira&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
